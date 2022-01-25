@@ -4,13 +4,11 @@ email: edwinthomasr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 this is a page about rabbits hurray! 
 baseurl: github-pages-with-jekyll
-  I am here to talk about rabbits! 
-  *hop hop hop* 
-
 # social links
 twitter_username: e28e7065b740437
 github_username:  edwinthomasr
 
 show_excerpts: true 
-minima: theme: minima 
+theme: minima
+
 
