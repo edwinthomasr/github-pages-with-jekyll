@@ -2,6 +2,8 @@ title: Rabbits Rabbits
 author: Edwin Riley 
 email: edwinthomasr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+this is a page about rabbits hurray! 
+baseurl: github-pages-with-jekyll
   I am here to talk about rabbits! 
   *hop hop hop* 
 
