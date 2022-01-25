@@ -12,5 +12,5 @@ twitter_username: e28e7065b740437
 github_username:  edwinthomasr
 
 show_excerpts: true 
-theme: minima 
+minima: theme: minima 
 
