@@ -1,3 +1,4 @@
+theme: minima 
 title: Rabbits Rabbits 
 author: Edwin Riley 
 email: edwinthomasr@gmail.com
@@ -10,4 +11,4 @@ twitter_username: e28e7065b740437
 github_username:  edwinthomasr
 
 show_excerpts: true 
-theme: minima 
+
